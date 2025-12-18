@@ -14,3 +14,4 @@ jobs:
         with:
           release-type: node
           target-branch: main
+          config-file: .github/release-please-config.json
