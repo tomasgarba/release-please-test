@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0-rc.3](https://github.com/tomasgarba/release-please-test/compare/AwesomeProject-v0.2.0-rc.2...AwesomeProject-v0.2.0-rc.3) (2025-12-18)
+
+
+### Features
+
+* readme feature ([c01cb3d](https://github.com/tomasgarba/release-please-test/commit/c01cb3dd400994342a68743d2b8073c1238979f3))
+
 ## [0.2.0-rc.2](https://github.com/tomasgarba/release-please-test/compare/AwesomeProject-v0.2.0-rc.1...AwesomeProject-v0.2.0-rc.2) (2025-12-18)
 
 
