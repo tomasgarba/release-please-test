@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v1.5.0-rc.0...v1.6.0-rc.0) (2025-12-18)
+
+
+### Features
+
+* readme 13:00 ([a98fd70](https://github.com/tomasgarba/release-please-test/commit/a98fd70b73004329aec140689149efffdb7e91a4))
+
+
+### Miscellaneous Chores
+
+* bump version to 1.6.0 ([587a947](https://github.com/tomasgarba/release-please-test/commit/587a947bf26b9249d5577bfc557285afaa1ca695))
+
 ## [1.5.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v1.4.0-rc.0...v1.5.0-rc.0) (2025-12-18)
 
 
