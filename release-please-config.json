@@ -2,7 +2,6 @@
   "packages": {
     ".": {
       "release-type": "node",
-      "prerelease": true,
       "prerelease-type": "rc",
       "versioning": "prerelease",
       "bump-minor-pre-major": false,
