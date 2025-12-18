@@ -14,5 +14,5 @@ jobs:
         run: |
           npm --no-git-tag-version version minor
           bumped=$(jq -r '.version' package.json)
-          git add package.json
+          git add .
           git commit -m "chore: $bumped" -m "Release-As: $bumped-rc.0"
