@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.2.2-rc.0](https://github.com/tomasgarba/release-please-test/compare/v0.2.1-rc.5...v0.2.2-rc.0) (2025-12-18)
+
+
+### Features
+
+* readme 11:57 ([70ee675](https://github.com/tomasgarba/release-please-test/commit/70ee675da58325b2a4da4124882b433b7c9e2a5c))
+* readme 11:58 ([be57578](https://github.com/tomasgarba/release-please-test/commit/be57578975a27c120fbf3a0df0a96a1d696e501a))
+
+
+### Bug Fixes
+
+* readme 11:59 ([b3677ef](https://github.com/tomasgarba/release-please-test/commit/b3677ef785ba7b6fec12f76451b47804c12cca41))
+
+
+### Miscellaneous Chores
+
+* release 0.2.2 ([697d77f](https://github.com/tomasgarba/release-please-test/commit/697d77f739d88b53d825334d5d0c444952b32da2))
+
 ## [0.2.1-rc.5](https://github.com/tomasgarba/release-please-test/compare/v0.2.1-rc.4...v0.2.1-rc.5) (2025-12-18)
 
 
