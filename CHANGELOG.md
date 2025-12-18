@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0-rc.1](https://github.com/tomasgarba/release-please-test/compare/v0.3.0-rc.0...v0.3.0-rc.1) (2025-12-18)
+
+
+### Features
+
+* readme 12:27 ([cf054d4](https://github.com/tomasgarba/release-please-test/commit/cf054d49e6440109d238e274789dddb96fcd2059))
+
 ## [0.3.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v0.2.2-rc.2...v0.3.0-rc.0) (2025-12-18)
 
 
