@@ -2,7 +2,6 @@
   "packages": {
     ".": {
       "release-type": "simple",
-      "prerelease": "true",
       "prerelease-type": "rc",
       "versioning": "prerelease",
       "bump-minor-pre-major": true,
