@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1-rc.2](https://github.com/tomasgarba/release-please-test/compare/v0.2.1-rc.1...v0.2.1-rc.2) (2025-12-18)
+
+
+### Bug Fixes
+
+* readme 3 ([9e59731](https://github.com/tomasgarba/release-please-test/commit/9e597311cae6052eda5937e2ae1e505bc6045c87))
+
 ## [0.2.1-rc.1](https://github.com/tomasgarba/release-please-test/compare/v0.2.1-rc.0...v0.2.1-rc.1) (2025-12-18)
 
 
