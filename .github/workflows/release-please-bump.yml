@@ -1,0 +1,16 @@
+name: Release please version bump
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Bump verion in package.json and Release-As
+        run: |
+          npm --no-git-tag-version version minor
+          bumped=$(jq -r '.version' package.json)
+          git add package.json
+          git commit -m "chore: $bumped" -m "Release-As: $bumped-rc.0"
