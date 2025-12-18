@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0-rc.1](https://github.com/tomasgarba/release-please-test/compare/v1.4.0-rc.0...v1.4.0-rc.1) (2025-12-18)
+
+
+### Features
+
+* readme 12:53 ([41b2cf5](https://github.com/tomasgarba/release-please-test/commit/41b2cf55ad331e40887d8471adea3720cda134f0))
+
 ## [1.4.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v1.4.0-rc.0...v1.4.0-rc.0) (2025-12-18)
 
 
