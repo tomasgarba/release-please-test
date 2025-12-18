@@ -12,6 +12,5 @@ jobs:
       - name: Release please
         uses: googleapis/release-please-action@v4
         with:
-          release-type: node
           target-branch: main
-          config-file: .github/release-please-config.json
+          config-file: ./.github/release-please-config.json
