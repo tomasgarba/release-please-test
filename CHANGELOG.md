@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.5.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v1.4.0-rc.0...v1.5.0-rc.0) (2025-12-18)
+
+
+### Features
+
+* readme 12:53 ([41b2cf5](https://github.com/tomasgarba/release-please-test/commit/41b2cf55ad331e40887d8471adea3720cda134f0))
+* readme 12:55 ([f2d33ee](https://github.com/tomasgarba/release-please-test/commit/f2d33eee5fcbc8ccce14a78bfd452dd0ee2188b6))
+* readme 12:57 ([3da73d0](https://github.com/tomasgarba/release-please-test/commit/3da73d0992dcf074f0d10608b6155c0313933926))
+
+
+### Miscellaneous Chores
+
+* bump version to 1.5.0 ([d1027d6](https://github.com/tomasgarba/release-please-test/commit/d1027d65802cee659f12233740e974cff66bc19b))
+
 ## [1.4.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v1.4.0-rc.0...v1.4.0-rc.0) (2025-12-18)
 
 
