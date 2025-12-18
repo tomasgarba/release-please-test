@@ -5,8 +5,8 @@
       "prerelease": "true",
       "prerelease-type": "rc",
       "versioning": "prerelease",
-      "bump-minor-pre-major": false,
-      "bump-patch-for-minor-pre-major": false
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": true
     }
   }
 }
