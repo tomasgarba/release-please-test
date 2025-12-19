@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.2.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v2.0.0-rc.3...v2.2.0-rc.0) (2025-12-19)
+
+
+### Features
+
+* readme 12:16 ([0b0b30d](https://github.com/tomasgarba/release-please-test/commit/0b0b30d5e81ec1526e73c1f990fc7d427d545836))
+
+
+### Miscellaneous Chores
+
+* bump version to 2.1.0 ([e57ab70](https://github.com/tomasgarba/release-please-test/commit/e57ab70e3c203791da8383fccdd1552aa720a571))
+* bump version to 2.2.0 ([9de738a](https://github.com/tomasgarba/release-please-test/commit/9de738aeb37cc2ba5af8c54bddb464af7e568902))
+
 ## [2.0.0-rc.3](https://github.com/tomasgarba/release-please-test/compare/v2.0.0-rc.2...v2.0.0-rc.3) (2025-12-19)
 
 
