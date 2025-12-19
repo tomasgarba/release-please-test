@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.8.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v1.7.0-rc.2...v1.8.0-rc.0) (2025-12-19)
+
+
+### Features
+
+* readme 9:23 ([a08b6ac](https://github.com/tomasgarba/release-please-test/commit/a08b6ac7492565ea63f32ae39541a6507993c981))
+
+
+### Miscellaneous Chores
+
+* bump version to 1.8.0 ([ae12d6a](https://github.com/tomasgarba/release-please-test/commit/ae12d6aeeec8d3d6c68f57681b6d38b59cd046bd))
+
 ## [1.7.0-rc.2](https://github.com/tomasgarba/release-please-test/compare/v1.7.0-rc.1...v1.7.0-rc.2) (2025-12-19)
 
 
