@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Branch main check
         run: |
-          if [[ "${GITHUB_REF}" != "refs/head/main" ]]; then
+          if [[ "${{ github.ref }}" != "refs/head/main" ]]; then
             echo "Workflow is not invoked from main branch."
             exit 1
           fi
