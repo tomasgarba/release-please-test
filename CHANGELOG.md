@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v2.2.0-rc.1...v2.3.0-rc.0) (2025-12-19)
+
+
+### Miscellaneous Chores
+
+* bump version to 2.3.0 ([4458ee7](https://github.com/tomasgarba/release-please-test/commit/4458ee73128f2cc1fe76d728727d132c23fd634c))
+
 ## [2.2.0-rc.1](https://github.com/tomasgarba/release-please-test/compare/v2.2.0-rc.0...v2.2.0-rc.1) (2025-12-19)
 
 
