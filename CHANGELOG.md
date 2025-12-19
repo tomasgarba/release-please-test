@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.7.0-rc.2](https://github.com/tomasgarba/release-please-test/compare/v1.7.0-rc.1...v1.7.0-rc.2) (2025-12-19)
+
+
+### Features
+
+* readme 9:19 ([848fdf8](https://github.com/tomasgarba/release-please-test/commit/848fdf83b614ebccdc6240205b53bf9952b922b0))
+
+
+### Bug Fixes
+
+* readme 9:21 ([179a560](https://github.com/tomasgarba/release-please-test/commit/179a560bac1d48666e9d0e7736c056e1460924ec))
+
 ## [1.7.0-rc.1](https://github.com/tomasgarba/release-please-test/compare/v1.7.0-rc.0...v1.7.0-rc.1) (2025-12-19)
 
 
