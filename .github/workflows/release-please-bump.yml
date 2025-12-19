@@ -8,6 +8,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Branch main check
+        run: |
+          if [[ "$github.ref" != "refs/head/main" ]]; then
+            echo "Workflow is not invoked from main branch."
+            exit 1
+          fi
+
       - uses: actions/checkout@v4
 
       - name: Configure git
