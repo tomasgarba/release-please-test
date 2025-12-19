@@ -23,7 +23,7 @@ jobs:
         run: |
           version=$(jq -r '.version' package.json)
           gh release create "v$version" \
-            --title "v$version"
+            --title "v$version" --generate-notes
 
       - name: Configure git
         run: |
