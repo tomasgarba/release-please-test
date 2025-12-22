@@ -30,7 +30,7 @@ jobs:
         with:
           target-branch: main
           config-file: ./.github/workflows/release-please-config-close-release.json
-          manifest-file: ./.release-please-manifest.json
+          manifest-file: ./github/workflows/.release-please-manifest-close-release.json
 
       - name: Configure git
         run: |
