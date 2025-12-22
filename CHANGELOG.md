@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.8.0-rc.1](https://github.com/tomasgarba/release-please-test/compare/v2.8.0-rc.0...v2.8.0-rc.1) (2025-12-22)
+
+
+### Features
+
+* readme 10:14 ([c97bd2c](https://github.com/tomasgarba/release-please-test/commit/c97bd2ccefcd8542c86ebb122127ddd633bff13b))
+
 ## [2.8.0-rc.0](https://github.com/tomasgarba/release-please-test/compare/v2.7.0-rc.0...v2.8.0-rc.0) (2025-12-22)
 
 
