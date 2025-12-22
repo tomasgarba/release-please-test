@@ -29,8 +29,7 @@ jobs:
         uses: googleapis/release-please-action@v4
         with:
           target-branch: main
-          # config-file: release-please-config-close-release.json
-          manifest-file: ./.github/workflow/.release-please-manifest-close-release.json
+          release-type: simple
 
       - name: Configure git
         run: |
