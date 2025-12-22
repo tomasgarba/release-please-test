@@ -23,7 +23,7 @@ jobs:
         run: |
           version=$(jq -r '.version' package.json)
           gh release create "v$version" \
-            --title "v$version" --generate-notes
+            --title "v$version" --generate-notes --notes
 
       # - name: Create GitHub Release using google release-please
       #   uses: googleapis/release-please-action@v4
