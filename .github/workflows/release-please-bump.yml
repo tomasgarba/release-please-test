@@ -17,26 +17,26 @@ jobs:
 
       - uses: actions/checkout@v4
 
-      # - name: Create GitHub Release
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   run: |
-      #     version=$(jq -r '.version' package.json)
-      #     gh release create "$version" \
-      #       --title "$version" --generate-notes
+      - name: Create GitHub Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          version=$(jq -r '.version' package.json)
+          gh release create "$version" \
+            --title "$version" --generate-notes
 
-      - name: Create GitHub Release using google release-please
-        uses: googleapis/release-please-action@v4
-        with:
-          target-branch: main
-          release-type: simple
+      # - name: Create GitHub Release using google release-please
+      #   uses: googleapis/release-please-action@v4
+      #   with:
+      #     target-branch: main
+      #     release-type: simple
 
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Bump verion in package.json and Release-As
+      - name: Bump version in package.json and Release-As
         run: |
           npm --no-git-tag-version version minor
           bumped=$(jq -r '.version' package.json)
