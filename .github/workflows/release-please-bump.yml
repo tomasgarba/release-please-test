@@ -22,8 +22,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           version=$(jq -r '.version' package.json)
-          gh release create "$version" \
-            --title "$version" --generate-notes
+          gh release create "v$version" \
+            --title "v$version" --generate-notes
 
       # - name: Create GitHub Release using google release-please
       #   uses: googleapis/release-please-action@v4
